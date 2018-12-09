@@ -21,39 +21,7 @@
 # 项目简介
 基于搜狗微信搜索的微信公众号爬虫接口，可以扩展成基于搜狗搜索的爬虫
 
-如果有问题，请提issue
 
-[CHANGELOG](./CHANGELOG.md)
-
-# 交流分享
-
-- QQ群（只需加一个）
-  - 一群 132955136（已满）
-  - 二群 819084985
-
-- 微信群
-
-添加好友邀请加入，添加请备注：WechatSogou
-
-<img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/wechat.jpg" width="250" />
-
-# 赞助作者
-甲鱼说，咖啡是灵魂的饮料，买点咖啡
-
-[谢谢这些人的☕️](./coffee.md)
-
-<img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/xiaomiquan.jpeg" width="250" /><img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/pay_wechat.jpg" width="250" /><img src="https://raw.githubusercontent.com/chyroc/wechatsogou/master/screenshot/pay_ali.jpg" width="250" />
-
-
-# 问题集锦
-    Q:没有得到原始文章url / 提示链接已经过期？
-    A:微信屏蔽此接口，请在临时链接有效期内保存文章内容。
-
-    Q:获取文章只能10篇？
-    A:是的，仅显示最近10条群发。
-
-    Q:使用的是python 2 还是 3？
-    A:都支持，若出错，请报BUG。
 
 # 安装
 ```
